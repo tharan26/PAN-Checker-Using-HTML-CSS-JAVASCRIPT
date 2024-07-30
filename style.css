@@ -1,0 +1,44 @@
+body{
+    margin-left: 38%;
+    margin-top: 22%;
+    font-family: monospace;
+    background-color: #f3b105;
+}
+
+.box{
+    border: 2px transparent;
+    border-radius: 20px;
+    width: 400px;
+    padding: 50px;
+    background-color: #ffefbc;
+}
+
+.box label{
+    margin-left: 40px;
+    margin-right: 20px;
+    font-size: larger;
+    color: #f3b105;
+}
+
+.box input{
+    padding: 10px;
+}
+
+.box button{
+    margin-left: 40%;
+    margin-top: 20px;
+    color: #ffefbc;
+    border-radius: 10px;
+    border: none;
+    background-color: #f3b105;
+    padding: 10px;
+    width: 100px;
+    font-family: monospace;
+
+}
+
+.box h1{
+    text-align: center;
+    font-family: monospace;
+    color: #f3b105;
+}
