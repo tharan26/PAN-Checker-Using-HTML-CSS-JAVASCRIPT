@@ -22,8 +22,8 @@ body{
 
 .box input{
     padding: 10px;
-    border:none;
-    border-radius:10px;
+    border: none;
+    border-radius: 10px;
 }
 
 .box button{
